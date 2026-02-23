@@ -1,0 +1,7 @@
+project_id = "rwmxscvqnrovtwzttkoq"
+
+[functions.send-link-email]
+verify_jwt = false
+
+[functions.process-signature]
+verify_jwt = false

@@ -1,0 +1,1 @@
+ALTER TABLE public.settings ADD COLUMN IF NOT EXISTS email_api_key text NOT NULL DEFAULT '';

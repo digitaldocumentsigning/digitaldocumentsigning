@@ -1,0 +1,1 @@
+ALTER TABLE public.documents ADD COLUMN signature_position text NOT NULL DEFAULT 'bottom';

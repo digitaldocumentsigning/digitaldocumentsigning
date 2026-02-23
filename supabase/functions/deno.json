@@ -1,0 +1,9 @@
+{
+  "imports": {
+    "jsr:@supabase/functions-js/edge-runtime.d.ts": "https://esm.sh/jsr:@supabase/functions-js@2/edge-runtime.d.ts",
+    "@supabase/supabase-js": "https://esm.sh/@supabase/supabase-js@2"
+  },
+  "tasks": {
+    "test": "deno test --allow-all"
+  }
+}
